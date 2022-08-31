@@ -31,4 +31,6 @@ int main()
 	{
 		std::cout << "Leap year" << std::endl;
 	}
+	
+	return 0;
 }
