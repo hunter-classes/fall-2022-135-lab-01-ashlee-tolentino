@@ -27,4 +27,6 @@ int main()
 	{
 		std::cout << "The smaller of the two is " << num2 << std::endl;
 	}
+
+	return 0;
 }
