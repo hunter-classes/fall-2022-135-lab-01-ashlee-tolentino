@@ -35,4 +35,6 @@ int main()
 	{
 		std::cout << "The smaller of the three is " << num3 << std::endl;
 	}
+
+	return 0;
 }
